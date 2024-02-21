@@ -5,7 +5,7 @@ tags:
 index: "1"
 ---
 20-02-24  11:50 PM
-Status: #todo
+Status: #done
 Root (optional): [[Contents|Root]]
 # Predavanje 1 - NoSQL baze podataka
 
@@ -118,12 +118,13 @@ Root (optional): [[Contents|Root]]
 	- Basically Available - sistem garantuje odgovor (moguce i nekonzistentan)
 	- Soft state - stanje sistema se menja tokom vremena (cak i kad nema ulaznih podataka)
 	- Eventually consistent - sistem konvergira ka konzistentnost
-- 
+- ACID vs BASE - rigidnost vs fleksibilnost;
 
 ---
 # References
 
-- [Video 1](https://www.youtube.com/watch?v=1strSWO0q0c&list=PLWLPHZCdUNsM6typP_eWIviyyN14BCotR);
+- [Video 2](https://www.youtube.com/watch?v=y85XuURveyw&list=PLWLPHZCdUNsM6typP_eWIviyyN14BCotR&index=2);
+- [Video 3](https://www.youtube.com/watch?v=QoutEJPi_VQ&list=PLWLPHZCdUNsM6typP_eWIviyyN14BCotR&index=3);
 
 ---
 # Table of contents

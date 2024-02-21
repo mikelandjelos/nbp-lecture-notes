@@ -20,11 +20,10 @@ Root (optional): [[Contents|Root]]
 - objektno-orijentisane i objektno-relacione baze podataka;
 - time-series baze podataka;
 - NewSQL baze podataka;
-
 ---
 # References
 
-- [Video 0](https://www.youtube.com/watch?v=1strSWO0q0c&list=PLWLPHZCdUNsM6typP_eWIviyyN14BCotR&index=1&pp=iAQB);
+- [Video 1](https://www.youtube.com/watch?v=1strSWO0q0c&list=PLWLPHZCdUNsM6typP_eWIviyyN14BCotR&index=1);
 
 ---
 # Table of contents
