@@ -58,6 +58,8 @@ Root (optional): [[Contents|Root]]
 	- root metadata tablet se nalazi na zasebnom serveru kako ne bi predstavvljao usko grlo (svi zahtevi prvo idu ka njemu);
 	- bloom filter - citanje;
 
+[[8. Osnovne karakteristike Column-store baze podataka. Objasniti na primeru Google BigTable modela podataka.]]
+
 ## Cassandra - Facebook
 
 - Amazon Dynamo arhitektura (p2p prsten cvorova i operacije) + Google Bigtable model podataka;
@@ -69,7 +71,6 @@ Root (optional): [[Contents|Root]]
 - write/read/compaction == BigTable;
 - write![[Pasted image 20240221192753.png]] ![[Pasted image 20240221193544.png]]
 - read![[Pasted image 20240221193620.png]] ![[Pasted image 20240221193640.png]]
-- 
 
 ---
 # References
