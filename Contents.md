@@ -9,7 +9,14 @@ aliases:
 
 ```dataview
 TABLE
-FROM #nbp
-WHERE index != null
+FROM #note
+WHERE index != null AND index != "-1"
+SORT index ASC
+```
+
+```dataview
+TABLE
+FROM #answer
+WHERE index != null AND index != "-1"
 SORT index ASC
 ```
